@@ -160,7 +160,7 @@ Services will be available at:
 - On every push to `master`:
   1. Install & build all services
   2. Build Docker images for each service
-  3. Push images to Docker Hub (`fawaz482/*`)
+  3. Push images to Docker Hub (`yourusername/*`)
   4. (Optional) Deploy with Docker Compose
 
 ---
