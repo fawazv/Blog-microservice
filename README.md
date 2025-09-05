@@ -109,7 +109,7 @@ It consists of multiple services communicating via REST and RabbitMQ, all routed
 ### 🔹 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/blog-microservices.git
+git clone https://github.com/fawazv/Blog-microservice.git
 cd blog-microservices
 ```
 
